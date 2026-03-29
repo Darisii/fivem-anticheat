@@ -1,0 +1,37 @@
+# FiveM AntiCheat - Git Ignore File
+# Created by D
+
+# Server specific files
+server.cfg
+server-data/
+cache/
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup files
+*.bak
+*.backup
+
+# Discord tokens (if any)
+discord_token.txt
+
+# Resource specific
+__resource.lua
+fxmanifest.lua.bak
