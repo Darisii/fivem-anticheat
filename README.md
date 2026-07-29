@@ -6,7 +6,7 @@ An advanced, comprehensive anti-cheat system for FiveM servers with Discord logg
 
 ## Features
 
-### 🛡️ Anti-Cheat Detections
+### 🛡️ Anti-Cheat Detectionsa
 - **God Mode Detection** - Detects unlimited health exploits
 - **NoClip Detection** - Detects noclip and wall clipping
 - **Speed Hack Detection** - Detects abnormal speed modifications
